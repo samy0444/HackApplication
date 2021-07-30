@@ -84,6 +84,7 @@
             app:cardCornerRadius="15dp">
 
             <ImageView
+                android:background="@color/white"
                 android:id="@+id/coverImage"
                 android:layout_width="120dp"
                 android:layout_height="100dp"
